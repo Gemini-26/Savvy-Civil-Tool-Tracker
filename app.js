@@ -31,7 +31,7 @@ const FIREBASE_CONFIG = {
   projectId: "savy-civils-tool-tracker",
   storageBucket: "savy-civils-tool-tracker.firebasestorage.app",
   messagingSenderId: "963640249802",
-  appId: "1:963640249802:web:80784a6912ad41edb75333"
+  appId: "1:963640249802:web:90227546d51339b6b75333"
 };
 
 /* ──────────────────────────────────────────────────────────
